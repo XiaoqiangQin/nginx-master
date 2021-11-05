@@ -1,0 +1,161 @@
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30136 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30136.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30136 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.29.30136.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a6050 && [1/2] Building C object CMakeFiles\cmTC_a6050.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_a6050.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4aa83 && [1/2] Building CXX object CMakeFiles\cmTC_4aa83.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_4aa83.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a4e28 && [1/2] Building C object CMakeFiles\cmTC_a4e28.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_a4e28.exe
+
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9451f && [1/2] Building C object CMakeFiles\cmTC_9451f.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_9451f.exe
+
+
+
+Determining if the include file sys/stat.h exists passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ff166 && [1/2] Building C object CMakeFiles\cmTC_ff166.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_ff166.exe
+
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_445b4 && [1/2] Building C object CMakeFiles\cmTC_445b4.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_445b4.exe
+
+
+
+Determining if the include file windows.h exists passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4f9a6 && [1/2] Building C object CMakeFiles\cmTC_4f9a6.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_4f9a6.exe
+
+
+
+Determining if the function memmove exists passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a8259 && [1/2] Building C object CMakeFiles\cmTC_a8259.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_a8259.exe
+
+
+
+Determining if the function strerror exists passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0c3d2 && [1/2] Building C object CMakeFiles\cmTC_0c3d2.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_0c3d2.exe
+
+
+
+Determining if the function strtoll exists passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b4678 && [1/2] Building C object CMakeFiles\cmTC_b4678.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_b4678.exe
+
+
+
+Determining if the function _strtoi64 exists passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1f6f7 && [1/2] Building C object CMakeFiles\cmTC_1f6f7.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_1f6f7.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f11a0 && [1/2] Building C object CMakeFiles\cmTC_f11a0.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_f11a0.exe
+
+
+
+Determining size of long long passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_14af6 && [1/2] Building C object CMakeFiles\cmTC_14af6.dir\LONG_LONG.c.obj
+[2/2] Linking C executable cmTC_14af6.exe
+
+
+
+Determining size of unsigned long long passed with the following output:
+Change Dir: D:/work-dev/git-repository/nginx-master/objs/lib/pcre-8.40/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_06db0 && [1/2] Building C object CMakeFiles\cmTC_06db0.dir\UNSIGNED_LONG_LONG.c.obj
+[2/2] Linking C executable cmTC_06db0.exe
+
+
+

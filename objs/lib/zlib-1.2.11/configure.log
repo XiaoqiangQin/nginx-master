@@ -1,0 +1,24 @@
+--------------------
+./configure
+Fri Nov  5 12:43:24 CST 2021
+Checking for gcc...
+=== ztest4520.c ===
+extern int getchar();
+int hello() {return getchar();}
+===
+gcc -c ztest4520.c
+./configure: line 182: gcc: command not found
+... using cc
+
+Checking for obsessive-compulsive compiler options...
+=== ztest4520.c ===
+int foo() { return 0; }
+===
+cc -c -O ztest4520.c
+./configure: line 370: cc: command not found
+(exit code 127)
+Compiler error reporting is too harsh for ./configure (perhaps remove -Werror).
+** ./configure aborting.
+--------------------
+
+

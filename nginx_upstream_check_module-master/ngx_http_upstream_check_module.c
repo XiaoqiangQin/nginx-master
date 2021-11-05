@@ -970,7 +970,7 @@ ngx_http_upstream_check_add_timers(ngx_cycle_t *cycle)
                    &peers->check_shm_name,
                    peers->peers.nelts);
 
-    srandom(ngx_pid);
+    srand(ngx_pid);
 
     peer = peers->peers.elts;
     peer_shm = peers_shm->peers;
