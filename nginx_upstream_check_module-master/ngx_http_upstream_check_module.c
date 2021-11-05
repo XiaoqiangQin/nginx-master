@@ -4,6 +4,8 @@
  */
 
 
+#include <ngx_config.h>
+#include <ngx_core.h>
 #include <nginx.h>
 #include "ngx_http_upstream_check_module.h"
 

@@ -1,0 +1,20 @@
+
+
+----------------------------------------
+checking for ngx_http_upstream_check_module
+
+/bin/sh: line 1: cl: command not found
+----------
+
+#include <sys/types.h>
+
+
+
+int main(void) {
+    int a;;
+    return 0;
+}
+
+----------
+cl -DFD_SETSIZE=1024 -I nginx_upstream_check_module-master -o objs/autotest objs/autotest.c
+----------
